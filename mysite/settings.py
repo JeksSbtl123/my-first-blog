@@ -25,7 +25,7 @@ SECRET_KEY = '#(e2((o73-cvk!h-8%(7)s(!u-q8b7da#vvv=m#67b3a3%e9ab'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<Jeks>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'Jeks.pythonanywhere.com']
 
 
 # Application definition
